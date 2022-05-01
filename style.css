@@ -119,6 +119,10 @@ p{
 img{
     margin: auto;
     display: block;
+    min-width: none;
+}
+picture{
+    min-width: none;
 }
 iframe{
     margin: auto;
