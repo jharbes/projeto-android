@@ -118,11 +118,12 @@ p{
 }
 img{
     margin: auto;
-    display: block;
+    display: flex;
     min-width: none;
 }
 picture{
     min-width: none;
+    display: flex;
 }
 iframe{
     margin: auto;
