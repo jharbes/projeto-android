@@ -118,8 +118,7 @@ p{
 }
 img{
     margin: auto;
-    display: flex;
-    min-width: none;
+    display: block;
 }
 picture{
     min-width: none;
