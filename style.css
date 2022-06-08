@@ -119,6 +119,7 @@ p{
 img{
     margin: auto;
     display: block;
+    width: 100%;
 }
 picture{
     min-width: none;
